@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.box{
+    background-color: darkgray;
+    width:30%;
+    height:30%;
+    margin: 4px;
+    display:inline-block;
+}
+
+@media only screen and (max-width:576px){
+    .box{
+        background-color: darkkhaki;
+        width:45%;
+        display:inline-block;
+    }
+}
+@media only screen and (min-width:577px){
+    .box{
+        background-color:darkslategrey;
+        width:40%;
+        display: inline-block;
+    }
+}
+@media only screen and (min-width:768px){
+    .box{
+        background-color:lawngreen;
+        width:30%;
+        display: inline-block;
+    }
+}
+@media only screen and (min-width:991px){
+    .box{
+        background-color:lightpink;
+        width:25%;
+        display: inline-block;
+    }
+}
+
+

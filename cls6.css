@@ -1,0 +1,125 @@
+.box1{
+    width:504px;
+    height:550px;
+    background-color:lightcyan;
+    float:left;
+    margin-bottom: 2px;
+}
+
+.sub_box1{
+    width:80%;
+    height:50%;
+    background-color: darkseagreen;
+    display:block;
+    margin-bottom:40px;
+}
+
+.sub_box2{
+    width:80%;
+    height:45%;
+    background-color: dimgrey;
+    display:block;
+    margin-bottom:40px;
+}
+
+.sub_box1 img{
+    width:auto;
+    height:auto;
+    padding:5px;
+}
+.sub_box2 img{
+    width:auto;
+    height:auto;
+    padding:5px;
+}
+
+.box2{
+    width:827px;
+    height:800px;
+    background:cornflowerblue;
+    float:right;
+}
+.sec1{
+    background-image: url('../Homework/winter_cls6.jpg');
+    height:231px;
+    width:100%;
+    display:block;
+    clear:both;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec1_con{
+    width:50%;
+    margin:auto;
+    color:black;
+    font-size:10px;
+    text-align: center;
+
+}
+.sec2{
+    background-image: url('./abdul_kader_mirja_cls6.jpg');
+    height:231px;
+    width:100%;
+    display:block;
+    clear:both;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec2_con{
+    width:50%;
+    margin:auto;
+    color:black;
+    font-size:10px;
+    text-align: center;
+}
+
+.sec3{
+    background-image: url('./salman_corona_tika_cls6.jpg');
+    height:231px;
+    width:100%;
+    display:block;
+    clear:both;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec3_con{
+    width:50%;
+    margin:auto;
+    color:black;
+    font-size:10px;
+    text-align: center;
+}
+
+.box3{
+    width:504px;
+    height:700px;
+    background-color:lightcyan;
+    float:left;
+    margin-bottom: 2px;
+}
+
+.sub_box31{
+    width:80%;
+    height:50%;
+    background-color:dodgerblue;
+    display:block;
+    margin-bottom:40px;
+}
+
+.sub_box32{
+    width:80%;
+    height:30%;
+    background-color:hotpink;
+    display:block;
+    margin-bottom:40px;
+}
+.sub_box31 img{
+    width:auto;
+    height:auto;
+    padding:5px;
+}
+.sub_box32 img{
+    width:auto;
+    height:auto;
+    padding:5px;
+}

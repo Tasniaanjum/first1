@@ -1,0 +1,47 @@
+.a h1{
+    width:147px;
+    height:43px;
+    background-color:green;
+    margin-left:600px;
+}
+.a{
+   
+    width: auto;
+    height: auto;
+    background-color: darkgray;
+    
+}
+
+.a p{
+    text-align: center;
+}
+
+.b{
+    
+    background-color: skyblue;
+    
+}
+
+.b h2{
+    padding-left:420px;
+    background-color: darkred;
+}
+
+.b table{
+    background-color: darkgreen;
+}
+.on{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  
+}
+table{
+    margin-left: 320px;
+}
+
+body{
+    background-color:whitesmoke;
+}
